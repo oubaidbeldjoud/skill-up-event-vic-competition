@@ -266,7 +266,7 @@ body {
 
 .btn-primary:hover {
     transform: translateY(-3px);
-    box-shadow: 0 15px 40px rgba(15, 40, 84, 0.5);
+    box-shadow: 0 30px 40px rgba(15, 40, 84, 0.5);
 }
 
 .btn-secondary {
@@ -1276,4 +1276,5 @@ section.animate {
     .speaker-info {
         padding: 2rem 1.5rem;
     }
+
 }
